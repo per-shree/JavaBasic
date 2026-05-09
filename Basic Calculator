@@ -42,6 +42,6 @@ public class Calculator {
                 System.out.println("Error! Invalid operator.");
         }
 
-        reader.close(); // It is good practice to close the scanner
+        reader.close();
     }
 }
