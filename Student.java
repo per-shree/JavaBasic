@@ -5,7 +5,7 @@ public class Student {
 
 	static final String URL ="jdbc:mysql://localhost:3306/studentdb";
 	static final String USER = "root";
-	static final String PASS = "shree";
+	static final String PASS = "";
 
 
 	public static void main(String[] arg) throws Exception {
